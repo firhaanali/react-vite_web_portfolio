@@ -94,7 +94,7 @@ const heroData = {
       label: "Google Colab",
     },
   ],
-  image: "/assets/es.jpg",
+  image: "/assets/me1.jpg",
 };
 
 export { heroData };

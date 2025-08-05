@@ -184,7 +184,7 @@ const About = () => {
                         {/* Profile Image */}
                         <div className="lg:w-1/3 flex justify-center lg:justify-start" data-aos="fade-left">
                             <img
-                                src="/assets/hero.jpg"
+                                src="/assets/me2.jpg"
                                 alt="Profile"
                                 className="w-80 h-80 object-cover shadow-xl hover:rotate-3 transition-transform duration-300"
                             />
